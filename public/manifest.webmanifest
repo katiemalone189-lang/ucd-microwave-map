@@ -1,0 +1,18 @@
+{
+  "name": "UCD Microwave Map",
+  "short_name": "UCD Microwaves",
+  "description": "Find and update microwave locations across UCD Belfield campus.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e7ece7",
+  "theme_color": "#173f34",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
